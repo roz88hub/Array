@@ -13,7 +13,7 @@ public class ArrayClass {
 	for(String varStrng: strArray ){
 		System.out.println(varStrng);
 	}
-	int x;
+	int x;       
 	for(x= 0; (x < intArray.length) ; x+=2){
 		/*if(x % 2 ==0)*/
 			System.out.println(intArray[x]);
